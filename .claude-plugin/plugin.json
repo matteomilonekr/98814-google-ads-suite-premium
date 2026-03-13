@@ -1,8 +1,10 @@
 {
   "name": "suite-google-ads-premium",
-  "description": "Suite Google Ads Premium — Complete Google Ads & SEO suite with 38 DataForSEO skills, 21 AI agents, 14 slash commands, AI/LLM monitoring, e-commerce intelligence, and interactive dashboards.",
-  "version": "1.0.0",
+  "description": "Suite Google Ads Premium — 38 skills, 50+ slash commands, 21 AI agents powered by DataForSEO",
+  "version": "1.1.0",
   "author": {
     "name": "Matteo Milone"
-  }
+  },
+  "skills": "./skills/",
+  "agents": "./agents/"
 }
