@@ -11,7 +11,7 @@
     {
       "name": "suite-google-ads-premium",
       "source": "./",
-      "description": "Suite Google Ads Premium — 45 slash commands, 21 AI agents, full SEO + Google Ads toolkit powered by DataForSEO",
+      "description": "Suite Google Ads Premium — 45 slash commands, 21 AI agents, full SEO + Google Ads toolkit",
       "version": "1.3.0",
       "author": {
         "name": "Matteo Milone"
