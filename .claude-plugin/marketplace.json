@@ -1,7 +1,7 @@
 {
-  "name": "anti-gravity-seo-premium",
+  "name": "matteo-milone-seo-premium",
   "owner": {
-    "name": "Anti-Gravity (Matteo Milone)",
+    "name": "Matteo Milone",
     "email": "matteo@milonematteo.com"
   },
   "metadata": {
@@ -15,7 +15,7 @@
       "description": "Complete Google Ads & SEO suite with 38 DataForSEO skills, 21 AI agents (6 SEO + 9 strategic + 6 operational), 14 slash commands, AI/LLM monitoring, e-commerce intelligence, and interactive dashboards.",
       "version": "1.0.0",
       "author": {
-        "name": "Anti-Gravity (Matteo Milone)"
+        "name": "Matteo Milone"
       },
       "category": "seo",
       "tags": ["seo", "google-ads", "dataforseo", "pmax", "serp", "keywords", "backlinks", "ai-monitoring", "e-commerce"],
