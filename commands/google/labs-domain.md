@@ -1,12 +1,6 @@
 ---
-name: seo:labs-domain
 description: Domain intelligence - traffic estimates, keyword portfolio, competitors, subdomains
 argument-hint: <domain> [--location <code>] [--language <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Comprehensive domain intelligence analysis including traffic, keywords, competitors, and subdomains.

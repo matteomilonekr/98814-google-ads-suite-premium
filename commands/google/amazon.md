@@ -1,12 +1,6 @@
 ---
-name: seo:amazon
 description: Amazon products, reviews, rankings, ASIN details
 argument-hint: <keyword> [--asin <ASIN>] [--location <code>] [--sort relevance|price|rating|reviews]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze Amazon search results, product details, reviews, and rankings.

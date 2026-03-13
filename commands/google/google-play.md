@@ -1,12 +1,6 @@
 ---
-name: seo:google-play
 description: Google Play Store - app rankings, reviews, keyword analysis
 argument-hint: <keyword> [--app-id <id>] [--location <code>] [--language <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze Google Play Store search results, app details, reviews, and keyword rankings.

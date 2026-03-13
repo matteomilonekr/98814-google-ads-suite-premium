@@ -1,12 +1,6 @@
 ---
-name: seo:onpage-crawl
 description: Site crawl management - start crawls, check status, retrieve results
 argument-hint: <domain> [--pages <number>] [--force-recrawl]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Manage on-page SEO crawls for a domain — start new crawls, check status, and retrieve results.

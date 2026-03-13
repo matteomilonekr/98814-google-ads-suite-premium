@@ -1,12 +1,6 @@
 ---
-name: google:keyword-no-brand
 description: Collect non-brand keywords for a domain - keywords NOT containing the brand name
 argument-hint: <domain> [--brand <name>] [--location <code>] [--language <code>] [--limit <n>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Collect all non-brand keywords for a domain — keywords that do NOT contain the brand name. These represent organic visibility on generic/informational queries.

@@ -1,12 +1,6 @@
 ---
-name: seo:audit-site
 description: Technical SEO audit - crawl site, check backlinks, find issues, get recommendations
 argument-hint: <domain> [--keywords <kw1> <kw2>] [--pages <max>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Run a comprehensive technical SEO audit on a domain.

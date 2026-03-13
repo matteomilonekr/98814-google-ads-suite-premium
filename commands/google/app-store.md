@@ -1,12 +1,6 @@
 ---
-name: seo:app-store
 description: Apple App Store - app rankings, reviews, keyword analysis
 argument-hint: <keyword> [--app-id <id>] [--location <code>] [--language <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze Apple App Store search results, app details, reviews, and keyword rankings.

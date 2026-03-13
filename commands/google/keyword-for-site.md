@@ -1,12 +1,6 @@
 ---
-name: seo:keyword-for-site
 description: Discover keywords that a domain ranks for or could target
 argument-hint: <domain> [--location <code>] [--language <code>] [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Discover keywords that a specific domain currently ranks for or should be targeting.

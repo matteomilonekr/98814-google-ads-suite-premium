@@ -1,12 +1,6 @@
 ---
-name: seo:keyword-suggestions
 description: Expand seed keywords into related keyword suggestions
 argument-hint: <seed_keyword> [--location <code>] [--language <code>] [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Expand a seed keyword into a comprehensive list of related keyword suggestions.

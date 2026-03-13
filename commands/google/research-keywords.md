@@ -1,12 +1,6 @@
 ---
-name: seo:research-keywords
 description: Deep keyword research - expand seed keywords, get volumes, find opportunities
 argument-hint: <seed_keyword> [<seed2> ...] [--location <code>] [--limit <n>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Perform deep keyword research using multiple DataForSEO data sources.

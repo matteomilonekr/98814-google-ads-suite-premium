@@ -1,12 +1,6 @@
 ---
-name: seo:whois
 description: WHOIS domain lookup - registration details, expiry, nameservers
 argument-hint: <domain>
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Perform a WHOIS lookup for domain registration details.

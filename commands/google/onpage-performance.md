@@ -1,12 +1,6 @@
 ---
-name: seo:onpage-performance
 description: Page performance analysis - Lighthouse scores, Core Web Vitals
 argument-hint: <url> [--device desktop|mobile] [--category performance|accessibility|seo|best-practices]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze page performance using Lighthouse and Core Web Vitals metrics.

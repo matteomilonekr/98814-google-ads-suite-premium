@@ -1,12 +1,6 @@
 ---
-name: seo:check-backlinks
 description: Analyze backlink profile - summary, top links, anchors, referring domains
 argument-hint: <domain_or_url> [--limit <n>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze the backlink profile of a domain or URL.

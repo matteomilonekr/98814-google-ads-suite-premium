@@ -1,12 +1,6 @@
 ---
-name: seo:llm-scraper
 description: Deep scraping of ChatGPT and Gemini responses with structured output
 argument-hint: <keyword> --engine <chatgpt|gemini|claude|perplexity|all> [--depth deep|shallow]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Deep scrape LLM responses from ChatGPT, Gemini, and other AI engines with structured output extraction.

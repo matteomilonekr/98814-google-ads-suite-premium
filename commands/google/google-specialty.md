@@ -1,12 +1,6 @@
 ---
-name: seo:google-specialty
 description: Specialty SERP analysis - Events, Jobs, AI Mode, Autocomplete suggestions
 argument-hint: <keyword> [--type events|jobs|ai-mode|autocomplete] [--location <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze specialty Google SERP features including Events, Jobs, AI Mode responses, and Autocomplete suggestions.

@@ -1,12 +1,6 @@
 ---
-name: seo:keyword-volume
 description: Search volume, CPC, competition data for keywords
 argument-hint: <keyword1> [keyword2...] [--location <code>] [--language <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Get search volume, CPC, and competition metrics for one or more keywords.

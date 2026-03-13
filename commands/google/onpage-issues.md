@@ -1,12 +1,6 @@
 ---
-name: seo:onpage-issues
 description: SEO issues detection - technical errors, duplicates, missing tags
 argument-hint: <domain> [--severity critical|warning|info] [--category <category>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Detect and categorize on-page SEO issues for a domain.

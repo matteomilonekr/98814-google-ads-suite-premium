@@ -1,12 +1,6 @@
 ---
-name: seo:google-finance
 description: Google Finance SERP - stock quotes, market data, financial information
 argument-hint: <keyword> [--location <code>] [--language <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze Google Finance SERP results for stock quotes, market data, and financial information.

@@ -1,12 +1,6 @@
 ---
-name: seo:google-business
 description: Full Google Business Profile with reviews, photos, and local data
 argument-hint: <business> [--location <code>] [--language <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Retrieve and analyze a full Google Business Profile including reviews, photos, and local data.

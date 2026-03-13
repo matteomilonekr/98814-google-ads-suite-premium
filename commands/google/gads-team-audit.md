@@ -1,13 +1,6 @@
 ---
-name: gads:team-audit
 description: Lancia il TEAM di 6 agenti paralleli per audit completo account Google Ads — PMax, RSA, Negative KW, Search Terms, Report, Feed
 argument-hint: <customer_id> [--domain <domain>] [--start <YYYY-MM-DD>] [--end <YYYY-MM-DD>] [--business-type <ecommerce|lead-gen>]
-allowed-tools:
-  - Read
-  - Bash
-  - Write
-  - Agent
-  - mcp__google-ads__*
 ---
 
 Lancia il TEAM di 6 agenti paralleli per audit completo account Google Ads.

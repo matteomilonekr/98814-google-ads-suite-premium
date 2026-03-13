@@ -1,12 +1,6 @@
 ---
-name: seo:llm-mentions
 description: Track brand/domain mentions across AI/LLM responses
 argument-hint: <domain> [--keywords <kw1,kw2,...>] [--engines chatgpt gemini claude perplexity]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Track how often and in what context a brand or domain is mentioned across AI/LLM responses.

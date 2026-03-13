@@ -1,12 +1,6 @@
 ---
-name: seo:onpage-content
 description: HTML extraction, content structure analysis, page screenshots
 argument-hint: <url> [--screenshot] [--extract headings|links|images|all]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Extract and analyze page content structure, HTML elements, and capture screenshots.

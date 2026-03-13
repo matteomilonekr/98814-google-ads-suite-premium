@@ -1,12 +1,6 @@
 ---
-name: seo:monitor-ai
 description: Monitor AI/LLM responses for a keyword - check brand visibility across ChatGPT, Claude, Gemini, Perplexity
 argument-hint: <keyword> [--domain <your_domain>] [--engines chatgpt claude gemini perplexity]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Monitor how AI language models respond to a query and check if your domain is cited.

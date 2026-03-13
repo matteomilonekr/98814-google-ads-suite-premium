@@ -1,12 +1,6 @@
 ---
-name: seo:social-media
 description: Pinterest and Reddit engagement metrics for a keyword or domain
 argument-hint: <keyword> [--platform pinterest|reddit|all] [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze Pinterest and Reddit engagement metrics for a keyword or domain.

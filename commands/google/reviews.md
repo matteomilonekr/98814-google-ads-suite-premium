@@ -1,12 +1,6 @@
 ---
-name: seo:reviews
 description: Trustpilot and Tripadvisor reviews analysis
 argument-hint: <domain> --platform <trustpilot|tripadvisor|all> [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze reviews from Trustpilot and Tripadvisor for a business or domain.

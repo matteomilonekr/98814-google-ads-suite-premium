@@ -1,12 +1,6 @@
 ---
-name: seo:content-search
 description: Content search by keyword with sentiment analysis and trend detection
 argument-hint: <keyword> [--sentiment positive|negative|neutral] [--date-from <YYYY-MM-DD>] [--limit <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Search for content by keyword across the web with sentiment analysis and trend detection.

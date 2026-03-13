@@ -1,12 +1,6 @@
 ---
-name: seo:local-rankings
 description: Check local search rankings for a business in Google Maps
 argument-hint: <business_name> --keywords <kw1> <kw2> [--location <code>] [--falcon --lat <n> --lng <n>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Check local search rankings and business listing presence.

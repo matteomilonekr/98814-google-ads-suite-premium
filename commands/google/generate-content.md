@@ -1,12 +1,6 @@
 ---
-name: seo:generate-content
 description: Generate SEO content including text, meta tags, and subtopics
 argument-hint: <topic_or_text> [--creativity <0-1>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Generate SEO-optimized content for a topic.

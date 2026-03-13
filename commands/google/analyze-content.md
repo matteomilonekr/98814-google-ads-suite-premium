@@ -1,12 +1,6 @@
 ---
-name: seo:analyze-content
 description: Analyze content quality and sentiment for a keyword or topic
 argument-hint: <keyword> [--limit <n>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Evaluate content quality and sentiment landscape for a keyword.

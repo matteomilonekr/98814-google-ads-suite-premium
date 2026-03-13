@@ -1,12 +1,6 @@
 ---
-name: seo:analyze-serp
 description: Analyze SERP for a keyword - shows rankings, SERP features, and top competitors
 argument-hint: <keyword> [--location <code>] [--device desktop|mobile]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze the search engine results page for the given keyword using the DataForSEO SERP API.

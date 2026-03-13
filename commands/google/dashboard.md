@@ -1,12 +1,6 @@
 ---
-name: seo:dashboard
 description: Interactive dashboards via Graphed MCP - SEO, Ads, and performance visualizations
 argument-hint: --type <seo|ads|backlinks|keywords|performance> --domain <domain> [--period 7d|30d|90d]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Generate interactive dashboards for SEO, Google Ads, backlinks, keywords, and performance metrics using Graphed MCP.

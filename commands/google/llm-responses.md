@@ -1,12 +1,6 @@
 ---
-name: seo:llm-responses
 description: Capture complete responses from all major LLMs for a keyword
 argument-hint: <keyword> [--engines chatgpt gemini claude perplexity] [--compare]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Capture and analyze complete responses from all major LLMs for a given keyword or query.

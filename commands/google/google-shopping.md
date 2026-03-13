@@ -1,12 +1,6 @@
 ---
-name: seo:google-shopping
 description: Google Shopping products, prices, sellers, competitor comparison
 argument-hint: <keyword> [--location <code>] [--language <code>] [--sort price|relevance|rating]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze Google Shopping results for a keyword — products, pricing, sellers, and competitive landscape.

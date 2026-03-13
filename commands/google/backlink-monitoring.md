@@ -1,12 +1,6 @@
 ---
-name: seo:backlink-monitoring
 description: Monitor backlink changes over time - new links, lost links, competitor movements
 argument-hint: <domain> [--mode new|lost|all] [--days <number>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Monitor backlink profile changes over time, tracking new and lost links.

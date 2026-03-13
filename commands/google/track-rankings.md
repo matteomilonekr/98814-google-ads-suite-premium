@@ -1,12 +1,6 @@
 ---
-name: seo:track-rankings
 description: Track keyword rankings for a domain across Google SERPs
 argument-hint: <domain> --keywords <kw1> <kw2> [--location <code>] [--device desktop|mobile]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Check current keyword rankings for a domain.

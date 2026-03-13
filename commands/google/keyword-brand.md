@@ -1,12 +1,6 @@
 ---
-name: google:keyword-brand
 description: Collect brand keywords for a domain - keywords containing the brand name
 argument-hint: <domain> [--brand <name>] [--location <code>] [--language <code>] [--limit <n>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Collect all brand keywords for a domain — keywords that contain the brand name.

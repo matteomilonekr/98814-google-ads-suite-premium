@@ -1,12 +1,6 @@
 ---
-name: seo:find-competitors
 description: Discover and analyze organic competitors for a domain
 argument-hint: <domain> [--keywords <kw1> <kw2>] [--competitors <comp1> <comp2>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Discover and profile competitors for a domain.

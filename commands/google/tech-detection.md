@@ -1,12 +1,6 @@
 ---
-name: seo:tech-detection
 description: Full technology stack detection for any domain
 argument-hint: <domain> [--category analytics|cms|framework|hosting|all]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Detect the full technology stack used by a domain including CMS, analytics, frameworks, and hosting.

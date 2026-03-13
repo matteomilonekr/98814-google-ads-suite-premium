@@ -1,13 +1,6 @@
 ---
-name: gads:report
 description: Report Google Ads completo — 5 agenti paralleli, 10 sezioni, Scorecard 0-100, Playbook 2026
 argument-hint: <customer_id> [--domain <domain>] [--start <YYYY-MM-DD>] [--end <YYYY-MM-DD>] [--business-type <ecommerce|lead-gen|SaaS|local>]
-allowed-tools:
-  - Read
-  - Bash
-  - Write
-  - Agent
-  - mcp__google-ads__*
 ---
 
 Genera un report Google Ads completo Top 0.01% — 5 agenti paralleli, 10 sezioni, Scorecard 0-100.

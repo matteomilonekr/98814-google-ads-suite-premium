@@ -1,12 +1,6 @@
 ---
-name: seo:youtube-serp
 description: YouTube SERP analysis - video rankings, metadata, channel info, comments
 argument-hint: <keyword> [--type search|video-info|comments] [--location <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze YouTube search results and video metadata for a keyword.

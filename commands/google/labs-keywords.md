@@ -1,12 +1,6 @@
 ---
-name: seo:labs-keywords
 description: Advanced keyword intelligence - intent analysis, SERP features, keyword clustering
 argument-hint: <keyword1> [keyword2...] [--location <code>] [--language <code>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Advanced keyword analytics using DataForSEO Labs — intent detection, SERP features, clustering.

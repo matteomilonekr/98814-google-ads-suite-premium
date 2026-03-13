@@ -1,12 +1,6 @@
 ---
-name: seo:keyword-trends
 description: Google Trends, ad traffic history, seasonal analysis for keywords
 argument-hint: <keyword> [--period 12m|24m|5y] [--location <code>] [--compare <keyword2>]
-allowed-tools:
-  - Read
-  - Bash
-  - Task
-  - Write
 ---
 
 Analyze keyword trends over time including Google Trends data, ad traffic history, and seasonal patterns.
