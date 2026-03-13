@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DATAFORSEO_LOGIN": "",
+    "DATAFORSEO_PASSWORD": "",
+    "LOCAL_FALCON_API_KEY": ""
+  }
+}
